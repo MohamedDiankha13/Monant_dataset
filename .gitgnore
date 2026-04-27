@@ -1,11 +1,11 @@
 rm -rf *.pkl
-*.pkl
-*.png
-Table1_baseline_results_claims_cardio_diabete_4classes_improved.csv
-Table1_baseline_results_claims_cardio_diabete_4classes_improved.csv
-Table1_baseline_results_claims_4classes_improved.csv
-full_data_claims_cardio_diabete_baseline_ready_4classes.csv
-full_data_claims_cardio_diabete_4classes_stats.csv
-claims_test_set.csv
-claims_test_set_4classes.csv
-claims_cardio_diabete_test_set_4classes.csv
+rm *.pkl
+rm *.png
+rm Table1_baseline_results_claims_cardio_diabete_4classes_improved.csv
+Trm able1_baseline_results_claims_cardio_diabete_4classes_improved.csv
+rm Table1_baseline_results_claims_4classes_improved.csv
+rm full_data_claims_cardio_diabete_baseline_ready_4classes.csv
+rm full_data_claims_cardio_diabete_4classes_stats.csv
+rm claims_test_set.csv
+rm claims_test_set_4classes.csv
+rm claims_cardio_diabete_test_set_4classes.csv

@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1_macro,F1_weighted,CV_F1_mean,CV_F1_std,F1_false,F1_almost_false,F1_almost_true,F1_true
+LR_weighted_word,0.722,0.422,0.375,0.37,0.646,0.191,0.0,0.815,0.0,0.0,0.667
+SVC_weighted_char,0.667,0.333,0.352,0.335,0.597,0.211,0.033,0.769,0.0,0.0,0.571
+SVC_weighted_word,0.667,0.412,0.312,0.296,0.569,0.191,0.0,0.786,0.0,0.0,0.4

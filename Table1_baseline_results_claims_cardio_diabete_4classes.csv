@@ -1,4 +1,0 @@
-Model,Accuracy,Precision,Recall,F1_macro,F1_weighted,CV_F1_mean,CV_F1_std,F1_false,F1_almost_false,F1_almost_true,F1_true,Features,Dataset
-Logistic Regression,0.659,0.343,0.328,0.331,0.635,0.342,0.041,0.79,0.25,0.0,0.286,"TF-IDF (1-2gram, max=10k)",claims_cardio_diabete_filtered
-Naive Bayes,0.721,0.18,0.25,0.209,0.604,0.21,0.001,0.838,0.0,0.0,0.0,"TF-IDF (1-2gram, max=10k)",claims_cardio_diabete_filtered
-LinearSVC,0.721,0.309,0.287,0.277,0.645,0.284,0.024,0.832,0.0,0.0,0.276,"TF-IDF (1-2gram, max=10k)",claims_cardio_diabete_filtered
